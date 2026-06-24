@@ -4,12 +4,10 @@ Personal knowledge base — cybersecurity, finance, and mythology notes, mixing 
 
 ## Structure
 
-| Folder | Contents |
-|---|---|
+| Folder                                        | Contents                                                                           |
+| --------------------------------------------- | ---------------------------------------------------------------------------------- |
 | [`cybersecurity/`](./cybersecurity/README.md) | eJPTv2 / PNPT prep — networking, web exploitation, CTF writeups, interactive tools |
-| [`finance/`](./finance/README.md) | Indian mutual fund concepts, taxation, and dashboard/calculator tools |
-| [`mythology/`](./mythology/README.md) | Mahabharata and other Indian mythology notes/writing |
-| `assets/` | Shared images and diagrams referenced by notes |
+| `assets/`                                     | Shared images and diagrams referenced by notes                                     |
 
 ## Conventions
 
